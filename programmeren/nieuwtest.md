@@ -2,7 +2,7 @@
 title: markdown test
 description: markdown test
 published: true
-date: 2020-01-30T21:07:45.627Z
+date: 2020-01-30T21:08:55.560Z
 tags: markdown test, test
 ---
 
@@ -36,14 +36,14 @@ Your content here
 <html>
 <body>
 
-<h1>JavaScript console.log() Method</h1>
+<h2>JavaScript Alert</h2>
 
-<p>Press F12 on your keyboard to view the message in the console view.</p>
+<button onclick="myFunction()">Try it</button>
 
 <script>
-
-console.log("Hello world!");
-
+function myFunction() {
+  alert("I am an alert box!");
+}
 </script>
 
 </body>
