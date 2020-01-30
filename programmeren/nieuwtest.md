@@ -2,7 +2,7 @@
 title: markdown test
 description: markdown test
 published: true
-date: 2020-01-30T21:11:03.670Z
+date: 2020-01-30T21:12:58.256Z
 tags: markdown test, test
 ---
 
@@ -32,4 +32,4 @@ Your content here
 ![1558910874422.jpg](/1558910874422.jpg =250x)
 
 
-<a href="https://hackflag.org" ping="https://boxxy.be">hallo test</a>
+<a href="https://hackflag.org" ping="https://boxxy.be/test1.txt">hallo test</a>
