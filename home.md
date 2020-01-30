@@ -1,13 +1,10 @@
 ---
-title: Untitled Page
-description: 
+title: Hackflag Wiki
+description: Dit is de nieuwe wiki pagina van Hackflag
 published: true
-date: 2020-01-30T19:18:09.270Z
+date: 2020-01-30T21:16:08.534Z
 tags: 
 ---
 
-# Header
-Your content here
-
-
-djiawdawiujdawoidawjoida
+# Wiki.hackflag.org
+De nieuwe wiki omgeving van hackflag
