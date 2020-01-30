@@ -2,7 +2,7 @@
 title: markdown test
 description: markdown test
 published: true
-date: 2020-01-30T21:04:10.579Z
+date: 2020-01-30T21:05:48.221Z
 tags: markdown test, test
 ---
 
@@ -32,4 +32,4 @@ Your content here
 ![1558910874422.jpg](/1558910874422.jpg =250x)
 
 <font color="red">test</font>
-<script>alert(1);</script>
+<script>console.log("Hello world!");</script>
